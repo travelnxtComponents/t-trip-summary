@@ -18,11 +18,11 @@
 	"distance": "",
 	"startDate": [
 	              "date": "",
-				  "time": ""
+	              "time": ""
 	],
 	"endDate": [
 	               "date": "",
-				   "time": ""
+	               "time": ""
 	],
 	"duration": "",
 	"item"[
@@ -33,20 +33,20 @@
 		            "children" : ""
 		  },
 		  "fareItem": [{
-		             "title": "",
-					 "price": "",
-					 "breakup":
-					 [{
-					     "title": "",
-						 "price": ""
-					 }]
+		                     "title": "",
+		                     "price": "",
+			             "breakup":
+				[{
+				         "title": "",
+					 "price": ""
+				}]
 		             }]
 	}
 	}
 	],
 	
 	"total": [
-             	"title": "",
+             	            "title": "",
 			    "amount": ""
 	         ]
 	
