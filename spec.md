@@ -124,3 +124,11 @@ If no fare breakup is provided the fares should not be clickable
 No fields are mandatory
 
 ```
+
+## Documents
+- Visual designs for components - https://projects.invisionapp.com/share/6E9PJ7R4Q#/screens/228211081
+- API access : Url - http://demo.travelnxt.com/dev
+- Tavisca Elements - https://github.com/atomelements and https://github.com/travelnxtelements
+- Vaadin elements - https://vaadin.com/docs/-/part/elements/elements-getting-started.html
+- Google - https://elements.polymer-project.org/browse?package=google-web-components
+- Tavisca Web component style Guide - https://drive.google.com/open?id=0B7BT_2nBFNYVR2tscE9pRnVJYmc
